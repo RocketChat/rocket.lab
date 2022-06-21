@@ -1,5 +1,6 @@
 # Welcome to rocket.lab
-<img src="./assets/images/Rocket.lab.svg" width=50%>
+![](./assets/images/Rocket.lab.svg)
+
 ## What is rocket.lab
 rocket.lab is a webcast series initiated by rocket.chat
 ## Youtube channel

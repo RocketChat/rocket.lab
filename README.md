@@ -3,6 +3,8 @@
 
 ## What is rocket.lab
 rocket.lab is a webcast series initiated by rocket.chat
+
+Check our wiki for [episode materials](https://github.com/RocketChat/rocket.lab/wiki)
 ## Youtube channel
 you can watch rocket.lab at our [youtube channel](https://www.youtube.com/c/RocketChatApp)
 ## Contributing
